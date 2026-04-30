@@ -1,7 +1,6 @@
 # 🌌 SULTAGEN | The Master Key to Neural Intelligence & Logic Engineering 🌌
 
-![SULTAGEN Header](<img width="512" height="512" alt="apple-touch-icon" src="https://github.com/user-attachments/assets/ccd5b5c8-cc20-4d58-8537-b3037b63525f" />
-)
+![SULTAGEN Header](<img width="512" height="512" alt="apple-touch-icon" src="https://github.com/user-attachments/assets/ccd5b5c8-cc20-4d58-8537-b3037b63525f" />)
 
 > **"We don't just provide answers; we re-engineer the sea of data so you can navigate the impossible."**
 
