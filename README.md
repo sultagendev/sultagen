@@ -89,17 +89,14 @@ Our Expert Mode is changing the way we use intelligence. Let us look at the diff
   <img src="https://img.icons8.com/nolan/64/video-playlist.png" width="50">
   <br>
 
-  <a href="https://streamable.com/nfgqb8?src=player-page-share">
-    <img src="https://github.com/user-attachments/assets/57c220b4-f7b9-4235-8ccb-3370c0e81d0e" alt="SULTAGEN Video Preview" width="100%" style="border-radius: 12px; border: 2px solid #007bff;">
+<a href="https://streamable.com/nfgqb8?src=player-page-share">
+    <img src="https://github.com/user-attachments/assets/b3fd0190-31fc-4176-a329-9137471d7218" alt="SULTAGEN Animated" width="100%" style="border-radius: 12px; border: 3px solid #007bff;">
     <br>
     <br>
-    <img src="https://img.shields.io/badge/WATCH-DEMO-blue?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/WATCH-FULL_VIDEO-blue?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 
 </div>
-
-
-
 ---
 
 ## 🎯 Who Is This For?
