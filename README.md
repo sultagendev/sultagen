@@ -41,8 +41,7 @@ The SULTAGEN system is designed to keep your information safe that is why it has
 
 ## 📈 Why SULTAGEN system is the best !
 
-<video src="https://github.com/user-attachments/assets/b3fd0190-31fc-4176-a329-9137471d7218" width="180" autoplay loop muted playsinline style="border-radius: 8px; margin-top: 10px;">
-</video>
+<img src="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc2MDY2NDAsIm5iZiI6MTc3NzYwNjM0MCwicGF0aCI6Ii8yODA4MTk4MTUvNTg2Mzc0Mzg1LWIzZmQwMTkwLTMxZmMtNDE3Ni1hMzI5LTkxMzc0NzFkNzIxOC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNTAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDUwMVQwMzMyMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYzg2YWU3MWM1MTNjNjZkOTUwOTYzYjc4MzcyZjVmNGYwN2MzZjRiNDk4MThkNzk2MzI3ZjhiNDJmMGJjODkwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.zIgeAe3HP79P0sQJwHUItNo4E5mYSi7T1wzsi1Qklwc" width="180" alt="SULTAGEN Animation" style="display: block; margin: 10px 0;">
 
 
 People who make things for the internet and experts who help websites show up in search results trust SULTAGEN. We do not just say SULTAGEN is good. We show proof that SULTAGEN works. The SULTAGEN platform is made to be the most visible and best working thing in the AI niche. SULTAGEN is what people trust when they need something that really works. The SULTAGEN platform is made to be the thing, for people who use AI..
