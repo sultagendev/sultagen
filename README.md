@@ -68,22 +68,38 @@ Our Expert Mode is changing the way we use intelligence. Let us look at the diff
 
 *Gemini 1.5 Pro** | It stops us from looking deep into the details. | SULTAGEN Expert Mode lets us look at everything without any problems. | ** Performance** |
 
-
-<img src="[https://img.icons8.com/nolan/64/double-down.png](https://github.com/user-attachments/assets/57c220b4-f7b9-4235-8ccb-3370c0e81d0e)" width="40">
-
-<img src="" alt="SULTAGEN Video Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-
-
-
 <div align="center">
-<a href="https://streamable.com/nfgqb8?src=player-page-share">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/280819815/586362996-e94515ff-98c4-4876-bc6c-6ce8b4e49d2e.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260501T022039Z&X-Amz-Expires=300&X-Amz-Signature=bbda92e10d5019880b5fb87fa97c21fc1c144ea10de705dd0669fbe1a2752087&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng" alt="SULTAGEN Video Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+
+  <img src="https://github.com/user-attachments/assets/91699f5f-6375-400a-a7f8-8de7fab8352b" width="100%" style="border-radius: 12px; border: 1px solid #30363d;">
+
+  <br>
+  <img src="https://img.icons8.com/nolan/64/double-down.png" width="40">
+  <br>
+
+  <img src="https://github.com/user-attachments/assets/6c92a1a1-85cc-4998-87b5-ca87d7df0b66" width="100%" style="border-radius: 12px; border: 1px solid #30363d;">
+
+  <br>
+  <img src="https://img.icons8.com/nolan/64/double-down.png" width="40">
+  <br>
+
+  <img src="https://github.com/user-attachments/assets/61b0e28c-1574-43cb-9913-a74f45cee32c" width="100%" style="border-radius: 12px; border: 1px solid #30363d;">
+
+  <br>
+  <br>
+  <img src="https://img.icons8.com/nolan/64/video-playlist.png" width="50">
+  <br>
+
+  <a href="https://streamable.com/nfgqb8?src=player-page-share">
+    <img src="https://github.com/user-attachments/assets/57c220b4-f7b9-4235-8ccb-3370c0e81d0e" alt="SULTAGEN Video Preview" width="100%" style="border-radius: 12px; border: 2px solid #007bff;">
     <br>
-    <img src="https://img.shields.io/badge/WATCH-FULL_DEMO-red?style=for-the-badge&logo=playstation&logoColor=white" alt="Play Button">
     <br>
-    <b>📺Click to Watch Full Video)</b>
+    <img src="https://img.shields.io/badge/WATCH-DEMO-blue?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
+
 </div>
+
+
+
 ---
 
 ## 🎯 Who Is This For?
