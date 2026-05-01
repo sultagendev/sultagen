@@ -76,7 +76,7 @@ Our Expert Mode is changing the way we use intelligence. Let us look at the diff
     <br>
     <img src="https://img.shields.io/badge/WATCH-FULL_DEMO-red?style=for-the-badge&logo=playstation&logoColor=white" alt="Play Button">
     <br>
-    <b>📺 انقر أعلاه لمشاهدة العرض التقني الكامل لمشروع SULTAGEN (2:14 دقيقة)</b>
+    <b>📺Click to Watch Full Video)</b>
   </a>
 </div>
 ---
