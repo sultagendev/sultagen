@@ -69,8 +69,11 @@ Our Expert Mode is changing the way we use intelligence. Let us look at the diff
 *Gemini 1.5 Pro** | It stops us from looking deep into the details. | SULTAGEN Expert Mode lets us look at everything without any problems. | ** Performance** |
 
 <div align="center">
-  <h3>🎥 SULTAGEN Live Showcase</h3>
-  <iframe src="[https://streamable.com/e/nfgqb8](https://streamable.com/nfgqb8?src=player-page-share)" frameborder="0" width="100%" height="400" allowfullscreen></iframe>
+  <a href="https://streamable.com/nfgqb8?src=player-page-share">
+    <img src="https://sultagen.xyz/favicon.png" alt="SULTAGEN Demo Video" width="600">
+    <br>
+    <b>▶️ اضغط هنا لمشاهدة عرض الفيديو الكامل لمشروع SULTAGEN</b>
+  </a>
 </div>
 
 
