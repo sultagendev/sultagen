@@ -1,4 +1,4 @@
-# 🌌 SULTAGEN |The top AI tool. Smart Way to Talk to AI🌌
+# 🌌 SULTAGEN |The top AI tool. Smart Way to Talk to AI
 
 ![SULTAGEN](https://github-production-user-asset-6210df.s3.amazonaws.com/280819815/586308936-82efa0aa-19d9-480a-b1ab-3de97280b78e.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260430%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260430T223041Z&X-Amz-Expires=300&X-Amz-Signature=f6ea772a52732bd99e986ce4b7c11221f43d4a3757486813a970fa0a312dbf63&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)
 
@@ -68,14 +68,15 @@ Our Expert Mode is changing the way we use intelligence. Let us look at the diff
 
 *Gemini 1.5 Pro** | It stops us from looking deep into the details. | SULTAGEN Expert Mode lets us look at everything without any problems. | ** Performance** |
 
-<div align="center">
-  <a href="https://streamable.com/nfgqb8?src=player-page-share">
-    <img src="https://sultagen.xyz/favicon.png" alt="SULTAGEN Demo Video" width="600">
-    <br>
-    <b>▶️ اضغط هنا لمشاهدة عرض الفيديو الكامل لمشروع SULTAGEN</b>
-  </a>
-</div>
 
+
+<p align="center">
+  <a href="[https://streamable.com/nfgqb8](https://streamable.com/nfgqb8?src=player-page-share)">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/280819815/586362996-e94515ff-98c4-4876-bc6c-6ce8b4e49d2e.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260501T022039Z&X-Amz-Expires=300&X-Amz-Signature=bbda92e10d5019880b5fb87fa97c21fc1c144ea10de705dd0669fbe1a2752087&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng" alt="SULTAGEN Expert Mode Demo" width="100%">
+  </a>
+  <br>
+  <b>👆 انقر على الصورة أعلاه لمشاهدة عرض SULTAGEN الكامل (214MB)</b>
+</p>
 
 
 ---
