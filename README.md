@@ -71,12 +71,12 @@ Our Expert Mode is changing the way we use intelligence. Let us look at the diff
 
 
 <div align="center">
-  <a href="https://streamable.com/nfgqb8?src=player-page-share">
-    <img src="[https://sultagen.xyz/favicon.png](https://github-production-user-asset-6210df.s3.amazonaws.com/280819815/586362996-e94515ff-98c4-4876-bc6c-6ce8b4e49d2e.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260501T022039Z&X-Amz-Expires=300&X-Amz-Signature=bbda92e10d5019880b5fb87fa97c21fc1c144ea10de705dd0669fbe1a2752087&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)" alt="Watch SULTAGEN Technical Demo" width="600">
+<a href="https://streamable.com/nfgqb8?src=player-page-share">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/280819815/586362996-e94515ff-98c4-4876-bc6c-6ce8b4e49d2e.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260501T022039Z&X-Amz-Expires=300&X-Amz-Signature=bbda92e10d5019880b5fb87fa97c21fc1c144ea10de705dd0669fbe1a2752087&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng" alt="SULTAGEN Video Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <br>
-    <img src="https://img.shields.io/badge/PLAY-VIDEO-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video">
+    <img src="https://img.shields.io/badge/WATCH-FULL_DEMO-red?style=for-the-badge&logo=playstation&logoColor=white" alt="Play Button">
     <br>
-    <b>⚡ Click above to watch the full SULTAGEN Expert Mode demonstration (2:14) ⚡</b>
+    <b>📺 انقر أعلاه لمشاهدة العرض التقني الكامل لمشروع SULTAGEN (2:14 دقيقة)</b>
   </a>
 </div>
 ---
