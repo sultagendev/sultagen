@@ -108,7 +108,7 @@ You are in control, with SULTAGEN and its AI logic.
     <img src="https://github.com/user-attachments/assets/b3fd0190-31fc-4176-a329-9137471d7218" alt="SULTAGEN Animated" width="100%" style="border-radius: 12px; border: 3px solid #007bff;">
     <br>
     <br>
-    <img src="https://img.shields.io/badge/PLAY_DEMO-NOW-blue?style=for-the-badge&logo=playstation&logoColor=white">
+    <img src="https://img.shields.io/badge/WATCH-FULL_VIDEO-blue?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 
 </div>
