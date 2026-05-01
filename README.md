@@ -67,11 +67,10 @@ People who make things for the internet and experts who help websites show up in
 
 ### 🚀 Why We Are Number #1 (The Proof)
 We really care about how something performs because people need to see it before they will listen to what it has to say and think it is important. Performance is what gets something noticed. That is the first step to being in charge to having authority, over the performance.
-![SEO Results](https://github-production-user-asset-6210df.s3.amazonaws.com/280819815/586350882-1c90893d-147c-4fa2-843c-5eecb0bafd4c.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260501T010800Z&X-Amz-Expires=300&X-Amz-Signature=7aabf82f7c937b306fc931636dbb45cfda0fb5711c75951056028a32e346d27e&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)
 
 * **SEO (100/100):** SEO framework makes sure that we do well with keywords that have a lot of competition like ai sulta, bypass and unfiltered prompts. We are made to be found by search engines away.
 
-* **Accessibility (100/100):** Just because something is complicated does not mean it should be hard to use. Our website is made to work with every type of user interaction.
+* **accessibility (100/100):** Just because something is complicated does not mean it should be hard to use. Our website is made to work with every type of user interaction.
 
 * **Best Practices (100/100):** SULTAGEN uses the security that banks use and our code is clean and simple. This means SULTAGEN follows the standards that modern websites should have.
 
