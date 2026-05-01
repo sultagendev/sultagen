@@ -113,7 +113,7 @@ You are a developer, a marketer or a security researcher. SULTAGEN is your weapo
 
 We do not want you to just believe us. We want you to **test the limits**. SULTAGEN is, for people who want to learn **how to fish** not get a ready-made answer.
 
-### 🌐 [Launch SULTAGEN system](https://sultagen.xyz)
+### 🌐 [go to website](https://sultagen.xyz)
 
 ---
 
