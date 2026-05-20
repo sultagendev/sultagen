@@ -1,6 +1,5 @@
 # 🌌 SULTAGEN | AI Logic & Prompt Engineering for free 
 
-![SULTAGEN]()
 
 > **"We don't just provide answers; we re-engineer the sea of data so you can navigate the impossible."**
 
