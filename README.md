@@ -25,24 +25,7 @@ There are no limits.
 
   <img src="https://github.com/user-attachments/assets/61b0e28c-1574-43cb-9913-a74f45cee32c" width="100%" style="border-radius: 12px; border: 1px solid #30363d;">
 
-  <br>
-  <br>
-  <img src="https://img.icons8.com/nolan/64/video-playlist.png" width="50">
-  <br>
 
-<br>
-  <h1>🎬 WATCH FULL VIDEO DEMO</h1>
-  <p><i>Click the preview below to see SULTAGEN in action</i></p>
-  <br>
-
-  <a href="https://streamable.com/nfgqb8?src=player-page-share">
-    <img src="https://github.com/user-attachments/assets/b3fd0190-31fc-4176-a329-9137471d7218" alt="SULTAGEN Animated" width="100%" style="border-radius: 12px; border: 3px solid #007bff;">
-    <br>
-    <br>
-    <img src="https://img.shields.io/badge/WATCH-FULL_VIDEO-blue?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-
-</div>
 
 ---
 ## 🏛️ Beyond the Rules !
